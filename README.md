@@ -119,3 +119,8 @@ The project can be improved by:
 
 #OUTPUT
 
+<img width="1080" height="905" alt="Image" src="https://github.com/user-attachments/assets/51b93efa-e8e1-42f7-af77-e7aee3d0490e" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/14abbcee-798d-4f61-94c2-679135bcacfb" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dc4f097e-1cef-4ba9-9a27-588d7e574edb" />
